@@ -15,6 +15,7 @@
         <module>server</module>
         <module>client</module>
         <module>server-ribbon</module>
+        <module>server-feign</module>
     </modules>
 
     <parent>
